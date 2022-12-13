@@ -1,3 +1,3 @@
 # Criptografia
 
-<img src="Capturar.png">
+<img src="Capturar.PNG">
